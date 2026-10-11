@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "external-plugin-test",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "source": "./plugins/external-plugin-test",
       "description": "A minimal plugin for testing plugin update handling."
     }
