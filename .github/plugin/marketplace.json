@@ -9,6 +9,11 @@
       "version": "1.0.2",
       "source": "./plugins/external-plugin-test",
       "description": "A minimal plugin for testing plugin update handling."
+    },
+    {
+      "name": "external-plugin-test-no-version",
+      "source": "./plugins/external-plugin-test-no-version",
+      "description": "A minimal test plugin without a version field."
     }
   ]
 }
