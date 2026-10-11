@@ -1,0 +1,14 @@
+{
+  "name": "external-plugin-test-marketplace",
+  "owner": {
+    "name": "Maayan"
+  },
+  "plugins": [
+    {
+      "name": "external-plugin-test",
+      "version": "1.0.0",
+      "source": "./plugins/external-plugin-test",
+      "description": "A minimal plugin for testing plugin update handling."
+    }
+  ]
+}
