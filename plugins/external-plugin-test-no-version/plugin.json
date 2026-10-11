@@ -1,0 +1,5 @@
+{
+  "$schema": "https://raw.githubusercontent.com/github/copilot-plugins/main/schemas/plugin.schema.json",
+  "name": "external-plugin-test-no-version",
+  "description": "A minimal test plugin without a version field."
+}
