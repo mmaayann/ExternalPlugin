@@ -17,7 +17,7 @@
     },
     {
       "name": "external-plugin-test-with-version",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "source": "./plugins/external-plugin-test-with-version",
       "description": "A minimal test plugin with a version field."
     }
